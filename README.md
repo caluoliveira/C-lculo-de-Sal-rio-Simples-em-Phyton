@@ -1,1 +1,18 @@
-# C-lculo-de-Sal-rio-Simples-em-Phyton
+# Calculo de Salario Simples
+
+## O que é isso?
+Este é um exercício que pergunta ao Usuário qual o valor de sua hora de trabalho, o número de horas trabalhadas no mês e mostra o salário mensal. 
+
+## Qual tecnologia usei?
+Linguagem - Phyton
+
+IDE (Ambiente de Desenvolvimento) recomendável: Pycharm
+
+## Qual a importância desse projeto para mim?
+Por meio desse projeto consegui aprimorar o raciocínio lógico e o estudo da sintaxe do Phyton.
+
+## Quais habilidades são necessárias para desenvolver e assimilar esse código?
+Raciocínio lógico e noções básicas de Phyton.
+
+## Link do repositório do GitHub:
+https://github.com/caluoliveira/Calculo-de-Salario-Simples-em-Phyton
